@@ -1,0 +1,26 @@
+ .estado{
+	 background:url('../img/0.png') no-repeat !important;
+ }
+ .move{
+ 	background-size: 100% !important;
+ 	position: absolute;
+ 	background: url('../img/1.png') no-repeat;
+ 	width: 20%;
+ 	height: 100%;
+ }
+ .tela{
+	 background:url('../img/tela.png') no-repeat !important;
+	 background-repeat: repeat !important;
+	 position: absolute;
+	 width: 100%;
+	 height: 100%;
+	 z-index: 1;
+ }
+ body{
+ 	margin: 0 !important;
+ 	background: #f8f9f0;
+ 	overflow-y: hidden;
+ }
+ .white{
+ 	background: white;
+ }
