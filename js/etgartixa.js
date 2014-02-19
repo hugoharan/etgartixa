@@ -43,7 +43,7 @@ function goFire(){
 
 }
 
-function dead(){
+function kill(){
 	$(".move").animate({
 		"width": "-=100"
 	},100,function(){
